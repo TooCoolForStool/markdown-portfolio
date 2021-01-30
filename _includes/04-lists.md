@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+# Things I Enjoy
+- Video Games
+- Cheeseburgers
+- Spending time with friends
+- Being terrible at karaoke
